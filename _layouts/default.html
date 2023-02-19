@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: "en-US" }}">
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+{% seo %}
+    <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
+    <!--[if lt IE 9]>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
+    <![endif]-->
+    {% include head-custom.html %}
+  </head>
+  <body>
+    <div class="wrapper">
+      <header>
+        <h1><a href="{{ "/" | absolute_url }}">{{ site.title}}</a></h1>
+
+        {% if site.logo %}
+          <img src="{{site.logo | relative_url}}" height="128" alt="Logo" />
+        {% endif %}
+
+        <p>{{ site.description }}</p>
+
+        <p class="view"><a href="{{ site.repository_url }}">View the Project on GitHub <small>{{ site.repository_name }}</small></a></p>
+
+        <h2><a href="{{ site.base_url }}/#download">DOWNLOAD</a></h2>
+        <h2><a href="{{ site.donate_url }}/#donate">DONATE</a></h2>
+        <ul>
+          <li><a href="./screenshots.html">Screenshots</a></li>
+          <li><a href="./#purpose">Purpose</a></li>
+          <li><a href="./#purpose">Pros Over RK Software</a></li>
+          <li><a href="./#purpose">Supported Features</a></li>
+          <li><a href="./#purpose">Planned Features</a></li>
+          <li><a href="./#purpose">Features that will not be worked on</a></li>
+          <li><a href="./#purpose">Supported Keyboards</a></li>
+          <li><a href="./#bugs-and-support">Bugs and Support</a></li>
+          <li><a href="./#donate">Donate</a></li>
+          <li><a href="./#license">License</a></li>
+        </ul>
+
+        <p>Created by <a href="{{ site.owner_url }}">{{ site.owner_name }}</a></p>
+        <p>Logo by <a href="{{ site.logo_url }}">{{ site.logo_name }}</a></p>
+
+        <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
+      </header>
+      <section>
+
+      {{ content }}
+
+      </section>
+    </div>
+    <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
+  </body>
+</html>
