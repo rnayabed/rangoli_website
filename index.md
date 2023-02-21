@@ -5,7 +5,7 @@ layout: default
 ## Download
 
 ### Linux x86_64
-**Note: You need to have libxcb-xinerama0 installed (for multi monitor support)**
+**Note: You need to have libxcb-xinerama0 (for multi monitor support) and xterm (udev writer prompt) installed.**
 - [Installer (.run)](https://github.com/rnayabed/rangoli/releases/download/1.0/rangoli-installer-linux-64.run)
 - [Portable (.zip)](https://github.com/rnayabed/rangoli/releases/download/1.0/rangoli-portable-linux-64.zip)
 
