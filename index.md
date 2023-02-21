@@ -25,7 +25,7 @@ layout: default
 
 ## Screenshots
 
-You can view screenshots over [here](./screenshots.html).
+You can view screenshots over [here](./screenshots.html#screenshots).
 
 ## Purpose
 
