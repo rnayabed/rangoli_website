@@ -4,7 +4,7 @@ layout: default
 
 ## Download
 
-### Linux
+### Linux x86_64
 **Note: You need to have libxcb-xinerama0 installed (for multi monitor support)**
 - [Installer (.run)](https://github.com/rnayabed/rangoli/releases/download/1.0/rangoli-installer-linux-64.run)
 - [Portable (.zip)](https://github.com/rnayabed/rangoli/releases/download/1.0/rangoli-portable-linux-64.zip)
@@ -13,13 +13,13 @@ layout: default
 - [Installer (.exe)](https://github.com/rnayabed/rangoli/releases/download/1.0/rangoli-installer-windows-64.exe)
 - [Portable (.zip)](https://github.com/rnayabed/rangoli/releases/download/1.0/rangoli-portable-windows-64.zip)
 
-### MacOS x86_64
+### MacOS
 - [Installer (.app)](https://github.com/rnayabed/rangoli/releases/download/1.0/rangoli-installer-macos.app.zip)
 - [Portable (.zip)](https://github.com/rnayabed/rangoli/releases/download/1.0/rangoli-portable-macos.zip)
 
 ## Demonstration Video
 
-<iframe width="1280" height="720" src="https://www.youtube.com/embed/MTGICKC4G5U">
+<iframe width="960" height="540" src="https://www.youtube.com/embed/MTGICKC4G5U">
 </iframe>
 <br/>
 
