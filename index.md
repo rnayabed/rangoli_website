@@ -14,7 +14,7 @@ layout: default
 - [Portable (.zip)](https://github.com/rnayabed/rangoli/releases/download/1.0/rangoli-portable-windows-64.zip)
 
 ### MacOS x86_64
-- [Installer (.app)](https://github.com/rnayabed/rangoli/releases/download/1.0/rangoli-installer-macos.appzip)
+- [Installer (.app)](https://github.com/rnayabed/rangoli/releases/download/1.0/rangoli-installer-macos.app.zip)
 - [Portable (.zip)](https://github.com/rnayabed/rangoli/releases/download/1.0/rangoli-portable-macos.zip)
 
 ## Demonstration Video
