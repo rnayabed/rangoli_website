@@ -19,7 +19,7 @@ layout: default
 
 ## Demonstration Video
 
-<iframe width="960" height="540" src="https://www.youtube.com/embed/MTGICKC4G5U">
+<iframe width="640" height="360" src="https://www.youtube.com/embed/MTGICKC4G5U">
 </iframe>
 <br/>
 
