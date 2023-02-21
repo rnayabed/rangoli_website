@@ -5,7 +5,7 @@ layout: default
 ## Download
 
 ### Linux x86_64
-#### **Note: You need to have libxcb-xinerama0 installed(for multi monitor support)**
+#### **Note: You need to have libxcb-xinerama0 installed (for multi monitor support)**
 - [Installer (.run)]()
 - [Portable (.zip)]()
 
@@ -19,8 +19,9 @@ layout: default
 
 ## Demonstration Video
 
-<iframe width="420" height="315" src="https://www.youtube.com/embed/MTGICKC4G5U">
+<iframe width="1280" height="720" src="https://www.youtube.com/embed/MTGICKC4G5U">
 </iframe>
+<br/>
 
 ## Screenshots
 
