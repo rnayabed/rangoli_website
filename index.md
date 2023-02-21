@@ -8,7 +8,11 @@ layout: default
 
 ## Demonstration Video
 
-[![demonstration video](https://img.youtube.com/vi/MTGICKC4G5U/maxresdefault.jpg)](https://www.youtube.com/watch?v=MTGICKC4G5U)
+<a href="https://youtu.be/MTGICKC4G5U" title="Demonstration Video">
+  <p align="center">
+    <img width="75%" src="https://img.youtube.com/vi/MTGICKC4G5U/maxresdefault.jpg" alt="Demonstration Video Thumbnail"/>
+  </p>
+</a>
 
 ## Screenshots
 
