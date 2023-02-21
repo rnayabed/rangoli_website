@@ -4,7 +4,18 @@ layout: default
 
 ## Download
 
-- Linux Installer (.run)
+### Linux x86_64
+#### **Note: You need to have libxcb-xinerama0 installed(for multi monitor support)**
+- [Installer (.run)]()
+- [Portable (.zip)]()
+
+### Windows x86_64
+- [Installer (.exe)]()
+- [Portable (.zip)]()
+
+### MacOS x86_64
+- [Installer (.app)]()
+- [Portable (.zip)]()
 
 ## Demonstration Video
 
