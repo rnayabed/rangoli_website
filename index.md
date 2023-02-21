@@ -6,6 +6,10 @@ layout: default
 
 - Linux Installer (.run)
 
+## Demonstration Video
+
+[![demonstration video](https://img.youtube.com/vi/MTGICKC4G5U/maxresdefault.jpg)](https://www.youtube.com/watch?v=MTGICKC4G5U)
+
 ## Screenshots
 
 You can view screenshots over [here](./screenshots.html).
