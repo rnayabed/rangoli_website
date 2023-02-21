@@ -8,11 +8,8 @@ layout: default
 
 ## Demonstration Video
 
-<a href="https://youtu.be/MTGICKC4G5U" title="Demonstration Video">
-  <p align="center">
-    <img width="75%" src="https://img.youtube.com/vi/MTGICKC4G5U/maxresdefault.jpg" alt="Demonstration Video Thumbnail"/>
-  </p>
-</a>
+<iframe width="420" height="315" src="https://www.youtube.com/embed/MTGICKC4G5U">
+</iframe>
 
 ## Screenshots
 
