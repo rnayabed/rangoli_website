@@ -32,7 +32,7 @@ layout: default
 * Add multiple Col Support for Windows
 * Add logging
 
-**Full Changelog**: https://github.com/rnayabed/rangoli/compare/1.0...2.0
+[Full Changelog](https://github.com/rnayabed/rangoli/compare/1.0...2.0)
 
 ## Demonstration Video
 
