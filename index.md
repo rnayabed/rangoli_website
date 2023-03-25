@@ -4,6 +4,11 @@ layout: default
 
 ## Download
 
+![version](https://img.shields.io/badge/Version-2.0-green)
+![Total Downloads](https://img.shields.io/github/downloads/rnayabed/rangoli/total?label=Total%20Downloads)
+[![Tip Me via PayPal](https://img.shields.io/badge/PayPal-Tip%20me-blue.svg?logo=paypal)](https://www.paypal.me/rnayabed)
+[![Tip Me via Ko-Fi](https://img.shields.io/badge/Ko--Fi-Tip%20me-red.svg?logo=kofi)](https://ko-fi.com/rnayabed)
+
 ### Linux x86_64
 **Note: You need to have libxcb-xinerama0 (for multi monitor support) and xterm (udev writer prompt) installed.**
 - [Installer (.run)](https://github.com/rnayabed/rangoli/releases/download/1.0/rangoli-installer-linux-64.run)
