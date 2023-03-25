@@ -62,8 +62,6 @@ Therefore, instead of changing the keyboard firmware, this software pretends to 
 
 ## Supported Keyboards
 
-Rangoli has been tested to be compliant with RK Software version 3.9.
-
 Full list of supported keyboards can be found [here](https://github.com/rnayabed/rangoli/blob/master/supported-keyboards.md).
 
 ## Bugs and Support
