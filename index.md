@@ -11,16 +11,28 @@ layout: default
 
 ### Linux x86_64
 **Note: You need to have libxcb-xinerama0 (for multi monitor support) and xterm (udev writer prompt) installed.**
-- [Installer (.run)](https://github.com/rnayabed/rangoli/releases/download/1.0/rangoli-installer-linux-64.run)
-- [Portable (.zip)](https://github.com/rnayabed/rangoli/releases/download/1.0/rangoli-portable-linux-64.zip)
+- [Installer (.run)](https://github.com/rnayabed/rangoli/releases/download/2.0/rangoli-installer-linux-64.run)
+- [Portable (.zip)](https://github.com/rnayabed/rangoli/releases/download/2.0/rangoli-portable-linux-64.zip)
 
 ### Windows x86_64
-- [Installer (.exe)](https://github.com/rnayabed/rangoli/releases/download/1.0/rangoli-installer-windows-64.exe)
-- [Portable (.zip)](https://github.com/rnayabed/rangoli/releases/download/1.0/rangoli-portable-windows-64.zip)
+- [Installer (.exe)](https://github.com/rnayabed/rangoli/releases/download/2.0/rangoli-installer-windows-64.exe)
+- [Portable (.zip)](https://github.com/rnayabed/rangoli/releases/download/2.0/rangoli-portable-windows-64.zip)
 
 ### MacOS
-- [Installer (.app)](https://github.com/rnayabed/rangoli/releases/download/1.0/rangoli-installer-macos.app.zip)
-- [Portable (.zip)](https://github.com/rnayabed/rangoli/releases/download/1.0/rangoli-portable-macos.zip)
+- [Installer (.app)](https://github.com/rnayabed/rangoli/releases/download/2.0/rangoli-installer-macos.app.zip)
+- [Portable (.zip)](https://github.com/rnayabed/rangoli/releases/download/2.0/rangoli-portable-macos.zip)
+
+
+# Changelog
+
+* Auto update checker
+* Add support for multiple VID but same protocol
+* Update udev-writer script
+* Fix MacOS
+* Add multiple Col Support for Windows
+* Add logging
+
+**Full Changelog**: https://github.com/rnayabed/rangoli/compare/1.0...2.0
 
 ## Demonstration Video
 
