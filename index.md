@@ -2,6 +2,9 @@
 layout: default
 ---
 
+## Disclaimer
+**Rangoli is NOT official software. I am not affiliated to Royal Kludge and only maintain this software in my free time. There is no gurantee that it will work with your keyboard. I only own a single RK keyboard (RK71RGB N Wired) and pieced up it's protocol and assumed that all keyboards that I could find in the official software use the same protocol. There is no documentation available for RK Software protocol. If your keyboard does not work, please create a bug report. You can also check [Supported Keyboards](https://github.com/rnayabed/rangoli/blob/master/supported-keyboards.md) list.**
+
 ## Download
 
 ![version](https://img.shields.io/badge/Version-2.0-green)
